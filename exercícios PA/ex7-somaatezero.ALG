@@ -25,6 +25,7 @@ repita
                    leia (num)
                    soma<-num+soma
                    escreval ("Soma atual =",soma)
+      fimescolha
 ate (n=0)
 
 Fimalgoritmo
